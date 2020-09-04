@@ -1,5 +1,5 @@
 Downloading:
-Please download the zip file above, and unzip it under the src folder of a new project created
+Please download the zip file above, and unzip it under the src folder of the new project created.
 
 Operation:
 Press upper arrow/ W to move up,
