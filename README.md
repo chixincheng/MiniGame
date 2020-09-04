@@ -1,3 +1,7 @@
+Downloading:
+Please download the zip file above, and unzip it under the src folder of a new project created
+
+Operation:
 Press upper arrow/ W to move up,
 Press lower arrow/ S to move down,
 Catch image of the girl to score,
